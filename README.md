@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [University Projects 😢](https://github.com/jose-izarra/attendance_system)
 
-- 📚 I’m currently learning **C**
-
 - 👨‍💻 My Portfolio [https://haxybaxy.github.io/](https://haxybaxy.github.io/)
 
 - 📫 How to reach me **zaidksaheb@gmail.com**

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [University Projects 😢](https://github.com/jose-izarra/attendance_system)
 
-- 👨‍💻 My Portfolio [https://haxybaxy.github.io/](https://haxybaxy.github.io/)
+- 👨‍💻 My Portfolio [https://haxybaxy.com/](https://haxybaxy.com/)
 
 - 📫 How to reach me **zaidksaheb@gmail.com**
 

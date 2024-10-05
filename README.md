@@ -5,5 +5,5 @@
 
  
 <pre align="center">
-<a href="https://www.haxybaxy.com/]"> 🖼️ portfolio</a> ~ <a href="https://www.linkedin.com/in/zaid-saheb/"> 👔 linkedin</a> ~ <a href="mailto:zaidksaheb@gmail.com"> 🐦 email</a> 
+<a href="https://www.haxybaxy.com/"> 🖼️ portfolio</a> ~ <a href="https://www.linkedin.com/in/zaid-saheb/"> 👔 linkedin</a> ~ <a href="mailto:zaidksaheb@gmail.com"> 🐦 email</a> 
 </pre>

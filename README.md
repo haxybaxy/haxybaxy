@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Zaid</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haxybaxy&label=Profile%20views&color=0e75b6&style=flat" alt="haxybaxy" /> </p>
+<h1 align="center">Hi, I'm Zaid 🪼</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haxybaxy&label=Profile%20views&color=0e75b6&style=flat" alt="haxybaxy" /> </p>
 
-- 🔭 I’m currently working on [University Projects 😢](https://github.com/jose-izarra/attendance_system)
+<pre>
+~ ❯ whoami
+  
+I'm a versatile and ambitious developer, currently focused on full stack development. 
+You can check out more about me here:
+<a href="https://www.haxybaxy.com/]"> 🖼️ portfolio</a> ~ <a href="https://www.linkedin.com/in/zaid-saheb/"> 👔 linkedin</a> ~ <a href="mailto:zaidksaheb@gmail.com"> 🐦 email</a> 
+</pre>
 
-- 👨‍💻 My Portfolio [https://haxybaxy.com/](https://haxybaxy.com/)
-
-- 📫 How to reach me **zaidksaheb@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/zaid-saheb/](https://www.linkedin.com/in/zaid-saheb/)
 

@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello, I'm Zaid 🧆</h1>
+<h1>Hello, I'm Zaid</h1>
     
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haxybaxy&label=Profile%20views&color=0e75b6&style=flat" alt="haxybaxy" /> 
     
